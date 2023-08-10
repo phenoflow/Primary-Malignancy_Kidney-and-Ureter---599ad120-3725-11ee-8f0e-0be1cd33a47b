@@ -1,0 +1,36 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/renal-primary-malignancy_kidney-and-ureter---primary.py
+inputModule3:
+  class: File
+  path: python/primary-malignancy_kidney-and-ureter-neoplasm---primary.py
+inputModule4:
+  class: File
+  path: python/primary-malignancy_kidney-and-ureter-hypernephroma---primary.py
+inputModule5:
+  class: File
+  path: python/primary-malignancy_kidney-and-ureter-pelvi---primary.py
+inputModule6:
+  class: File
+  path: python/primary-malignancy_kidney-and-ureter---primary.py
+inputModule7:
+  class: File
+  path: python/primary-malignancy_kidney-and-ureter-[m]hypernephroma---primary.py
+inputModule8:
+  class: File
+  path: python/primary-malignancy_kidney-and-ureter-history---primary.py
+inputModule9:
+  class: File
+  path: python/kidney---primary.py
+inputModule10:
+  class: File
+  path: python/primary-malignancy_kidney-and-ureter-pelvi---secondary.py
+inputModule11:
+  class: File
+  path: python/primary-malignancy_kidney-and-ureter-neoplasm---secondary.py
+inputModule12:
+  class: File
+  path: python/output-cases.py
